@@ -2,7 +2,7 @@
   "name": "mg_lab5_dagusen",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://yourusername.github.io/mg_lab5_dagusen",
+  "homepage": "https://mainevyu.github.io/mg_lab5_dagusen",
   "type": "module",
   "scripts": {
     "dev": "vite",
