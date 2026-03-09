@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/mg_lab_dagusen/',
+  base: '/MG_LAB5_Dagusen/',
 })
